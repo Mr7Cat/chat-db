@@ -1,0 +1,11 @@
+langchain
+openai
+mysql-connector-python
+faiss-cpu
+pandas
+numpy
+sentence-transformers
+flask
+sqlalchemy
+pymysql
+python-dotenv
